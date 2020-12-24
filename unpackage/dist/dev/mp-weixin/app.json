@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/share/share",
+    "pages/user/user",
+    "pages/login/login",
+    "pages/edit/edit",
+    "pages/register/register"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "在线笔记",
+    "navigationBarBackgroundColor": "#1AA034",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#1AA034",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/img/_index.png",
+        "selectedIconPath": "static/img/index.png"
+      },
+      {
+        "pagePath": "pages/share/share",
+        "text": "分享",
+        "iconPath": "static/img/_share.png",
+        "selectedIconPath": "static/img/share.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人中心",
+        "iconPath": "static/img/_user.png",
+        "selectedIconPath": "static/img/user.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

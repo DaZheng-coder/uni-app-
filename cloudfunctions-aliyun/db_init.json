@@ -1,0 +1,12 @@
+// user表
+{
+	"user": {
+		"data": [
+			{
+				"_id": "5fd702c05b74fb0001395729",
+				"username": "root",
+				"password": "123456"
+			}
+		]
+	}
+}

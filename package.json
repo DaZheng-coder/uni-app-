@@ -1,0 +1,16 @@
+{
+  "name": "sm-crypto",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "mavon-editor": "^2.9.0",
+    "miniprogram-sm-crypto": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
